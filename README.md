@@ -19,5 +19,5 @@ All practice labs for this course can be found in this repository, They are pret
 
 ## Certificate
 <a href = "https://coursera.org/share/677b477121b4ba9bc248b08f295613e9">
-  <img src="https://github.com/BornFromAshes/supervised-machine-learning-regression-and-classification/blob/main/Certificate.png">
+  <img src="https://github.com/BornFromAshes/supervised-machine-learning-regression-and-classification/blob/main/Coursera_Certificate.png">
 </a>
